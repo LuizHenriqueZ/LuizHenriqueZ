@@ -12,8 +12,8 @@ Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interess
 <hr/>
 <div>
   <a href="https://github.com/LuizHenriqueZ">
-  <img aling="center" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueZ&show_icons=true&theme=tokyonight" />
-  <img aling="center" height="180em" width="49%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueZ&layout=compact&theme=tokyonight" />
+  <img aling="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueZ&show_icons=true&theme=tokyonight" />
+  <img aling="center" height="180em" width="48%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueZ&layout=compact&theme=tokyonight" />
   </a>
 </div>
 
