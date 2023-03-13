@@ -4,10 +4,9 @@
 Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar como desenvolvedor front-end.
 
 - 🔭 Atualmente estou em busca da minha primeira oportunidade no mercado.
-- 📖 Estou melhorando meu HTML, CSS, JavaScript e SQL.
-- 🌱 Estou estudando Nodejs, ReactJS e TypeScript.
-- 💬 Me pergunte sobre: jogos, desenvolvimento Web e modelagem 3D.
-- 🎮 Fun fact: desenvolvi o gosto pela área de tecnologia por culpa de gostar de jogar.
+- 🌱 Estou estudando Java, MySQL.
+- 💬 Me pergunte sobre: jogos, desenvolvimento Web, banco de dados e modelagem 3D.
+- 🎮 Fun fact: desenvolvi o gosto pela área de tecnologia por gostar de jogar.
 
 <hr/>
 <div>
