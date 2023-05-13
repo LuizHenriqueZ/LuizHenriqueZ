@@ -1,10 +1,10 @@
 <h2>Opa, tudo beleza ?</h2>
 
 
-Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar como desenvolvedor front-end.
+Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar como análista de dados.
 
 - 🔭 Atualmente estou em busca da minha primeira oportunidade no mercado.
-- 🌱 Estou estudando Java, MySQL.
+- 🌱 Estou estudando Python, MySQL e Estatística.
 - 💬 Me pergunte sobre: jogos, desenvolvimento Web, banco de dados e modelagem 3D.
 - 🎮 Fun fact: desenvolvi o gosto pela área de tecnologia por gostar de jogar.
 
