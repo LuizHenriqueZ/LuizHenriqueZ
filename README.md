@@ -3,7 +3,7 @@
 
 Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar como análista de dados.
 
-- 🔭 Atualmente estou em busca da minha primeira oportunidade no mercado.
+- 🔭 Atualmente estou em busca de uma oportunidade no mercado de dados.
 - 🌱 Estou estudando Python, MySQL e Estatística.
 - 💬 Me pergunte sobre: jogos, desenvolvimento Web, banco de dados e modelagem 3D.
 - 🎮 Fun fact: desenvolvi o gosto pela área de tecnologia por gostar de jogar.
