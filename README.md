@@ -1,11 +1,11 @@
 <h2>Opa, tudo beleza ?</h2>
 
 
-Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar como análista de dados.
+Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar como desenvolvedor back-end.
 
-- 🔭 Atualmente estou em busca de uma oportunidade no mercado de dados.
-- 🌱 Estou estudando Python, MySQL e Estatística.
-- 💬 Me pergunte sobre: jogos, desenvolvimento Web, banco de dados e modelagem 3D.
+- 🔭 Atualmente estou em busca de uma oportunidade no mercado de desenvolvimento back-end.
+- 🌱 Estou estudando NodeJS, typescript, Jest e Nest.
+- 💬 Me pergunte sobre: jogos, desenvolvimento Web(principalmente back-end), banco de dados e modelagem 3D.
 - 🎮 Fun fact: desenvolvi o gosto pela área de tecnologia por gostar de jogar.
 
 <hr/>
