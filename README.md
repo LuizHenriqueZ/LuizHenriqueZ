@@ -4,7 +4,7 @@
 Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar como desenvolvedor back-end.
 
 - 🔭 Atualmente estou em busca de uma oportunidade no mercado de desenvolvimento back-end.
-- 🌱 Estou estudando NodeJS, typescript, Jest e Nest.
+- 🌱 Estou estudando NodeJS, typescript, Jest, MongoDB e Nest.
 - 💬 Me pergunte sobre: jogos, desenvolvimento Web(principalmente back-end), banco de dados e modelagem 3D.
 - 🎮 Fun fact: desenvolvi o gosto pela área de tecnologia por gostar de jogar.
 
