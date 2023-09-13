@@ -3,9 +3,9 @@
 
 Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar com computação gráfica.
 
-- 🔭 Atualmente estou em busca de uma oportunidade no mercado de computação gráfica, principalmente modelagem 3D e render.
-- 🌱 Estou estudando Blender, topologia, Texturização, Rigging e Python.
-- 💬 Me pergunte sobre: jogos, análise de dados, banco de dados, modelagem 3D e computação gráfica.
+- 🔭 Atualmente estou em busca de uma oportunidade no mercado de computação gráfica, principalmente modelagem 3D e desenvolvimento VR/AR.
+- 🌱 Estou estudando Blender, topologia, Texturização, Rigging, Unity e C#.
+- 💬 Me pergunte sobre: jogos, análise de dados, banco de dados, modelagem 3D, computação gráfica e desenvolvimento de jogos.
 - 🎮 Fun fact: desenvolvi o gosto pela área de tecnologia por gostar de jogar.
 
 <hr/>
