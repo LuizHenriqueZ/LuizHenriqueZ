@@ -1,11 +1,11 @@
 <h2>Opa, tudo beleza ?</h2>
 
 
-Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar com engenharia de machine learning e engenharia de prompt.
+Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar com engenharia de analytics.
 
-- 🔭 Atualmente estou em busca de uma oportunidade no mercado de inteligência artificial, principalmente machine learning e IA nos negócios .
-- 🌱 Estou estudando Python, fundamentos de ml, matemática e estátistica, Blender, algoritmos de ML e NLP.
-- 💬 Me pergunte sobre: desenvolvimento de jogos, banco de dados, modelagem 3D, engenharia de machine learning e matemática.
+- 🔭 Atualmente estou em busca de uma oportunidade no mercado de dados, principalmente engenharia de analytics ou engenharia de dados.
+- 🌱 Estou estudando Python, fundamentos de ml, matemática, spark, DB e Blender.
+- 💬 Me pergunte sobre: desenvolvimento de jogos, banco de dados, modelagem 3D, engenharia de dados e matemática.
 - 🎮 Fun fact: desenvolvi o gosto pela área de tecnologia por gostar de jogar.
 
 <hr/>
