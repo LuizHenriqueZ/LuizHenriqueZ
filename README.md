@@ -1,11 +1,11 @@
 <h2>Opa, tudo beleza ?</h2>
 
 
-Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar com engenharia de analytics.
+Meu nome é Luiz Henrique, sou estudante de ciência da computação, e interessado em trabalhar com análise de dados.
 
-- 🔭 Atualmente estou em busca de uma oportunidade no mercado de dados, principalmente engenharia de analytics ou engenharia de dados.
-- 🌱 Estou estudando Python, fundamentos de ml, matemática, spark, DB e Blender.
-- 💬 Me pergunte sobre: desenvolvimento de jogos, banco de dados, modelagem 3D, engenharia de dados e matemática.
+- 🔭 Atualmente estou em busca de uma oportunidade no mercado de dados, principalmente em análise de dados ou em engenharia de analytics.
+- 🌱 Estou estudando Python, Power BI, estatística, KPIs e melhorando minha comunicação.
+- 💬 Me pergunte sobre: desenvolvimento de jogos, banco de dados, análise de dados e matemática.
 - 🎮 Fun fact: desenvolvi o gosto pela área de tecnologia por gostar de jogar.
 
 <hr/>
